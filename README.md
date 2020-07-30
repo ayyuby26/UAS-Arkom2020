@@ -1,4 +1,4 @@
-# UAS-Arkom2020
+# UAS-Arkom2020 Semester 6
 Soal Ujian Akhir Semester </br>
 Matkul : Arsitektu dan organisasi Komputer </br>
 Kelas : TI.17.D3 &amp; TI.17.D4 </br>
